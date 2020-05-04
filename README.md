@@ -1,4 +1,4 @@
-# Buget_Set_Up_-VanillaJS_Project
+# Buget_VanillaJS_Project
 
 A simple web app that allow the users to calculate their Buget
 
